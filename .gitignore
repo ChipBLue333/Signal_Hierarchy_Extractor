@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Tool temporaries
+.temp_hierarchy.json
+.temp_script.ys
+
+# Local generated outputs
+outputs/
+signal_paths.json
+signal_paths.txt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
